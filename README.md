@@ -96,11 +96,14 @@ int main()
 
 ### ARDUINO PROGRAM
 
-<img width="900" height="699" alt="WhatsApp Image 2026-08-19 at 2 04 30 PM" src="https://github.com/user-attachments/assets/dab4d5e4-25ae-4163-80f9-5d8a73c5905d" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/90d76773-750c-4f2c-88a3-1c648410f282" />
+<img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/ca0f93ea-280f-452d-b2be-5cabecc0879b" />
+<img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/ee5602ea-eced-4aec-a5f3-4c879f823f51" />
+<img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/ad3b6ff1-8f10-4c27-a665-da65ec229c45" />
 
-### KEIL 
 
-<img width="900" height="651" alt="image" src="https://github.com/user-attachments/assets/0b52d567-5ead-4b35-9899-5dc203d3a9de" />
+
+
 
 
 # Result:
